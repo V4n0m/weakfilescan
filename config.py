@@ -1,6 +1,7 @@
 # encoding: utf-8
 # 全局配置文件
 
+
 import sys
 import random
 
